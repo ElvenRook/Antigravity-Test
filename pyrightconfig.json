@@ -1,0 +1,10 @@
+{
+    "venvPath": "C:\\Users\\ElvenRook\\Desktop\\Antigravity Test",
+    "venv": ".venv",
+    "pythonPath": ".venv\\Scripts\\python.exe",
+    "analysis": {
+        "extraPaths": [
+            ".\\.venv\\Lib\\site-packages"
+        ]
+    }
+}
